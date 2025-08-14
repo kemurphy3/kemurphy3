@@ -1,15 +1,15 @@
 # Hi, I'm Kate Murphy
 
-## Environmental Data Scientist | ML Engineer | NEON
+## Environmental Data Scientist | ML Engineer | Sports Analytics Enthusiast | NEON
 
-I'm passionate about applying machine learning and data science to environmental challenges. Currently working at NEON (National Ecological Observatory Network) where I help process and analyze continental-scale ecological data.
+I'm passionate about applying machine learning and data science to environmental challenges and sports performance. Currently working at NEON (National Ecological Observatory Network) where I help process and analyze continental-scale ecological data, while pursuing my growing interest in sports analytics.
 
 ### Current Focus
 
-- Building open-source wildfire risk prediction models using ecological data
-- Developing computer vision systems for ocean plastic detection
-- Creating wellness-based property valuation tools
-- Optimizing delivery routes with advanced algorithms
+- Building ML models for athlete performance prediction and calorie burn analysis
+- Developing open-source wildfire risk prediction models using ecological data
+- Creating computer vision systems for environmental monitoring
+- Advancing sports analytics through biometric and training data analysis
 
 ### Technical Skills
 
@@ -35,22 +35,26 @@ I'm passionate about applying machine learning and data science to environmental
 
 ### Featured Projects
 
-#### [Portfolio Projects Planning](https://github.com/kemurphy3/portfolio-projects)
-Comprehensive planning for environmental tech portfolio including wildfire prediction, ocean monitoring, and optimization algorithms.
+#### [Calorie Predictor](https://github.com/kemurphy3/calorie_predictor)
+Fully functioning ML system for predicting calorie burn during exercise using biometric data and activity metrics. Features real-time predictions and personalized models.
 
 #### [Athlete Performance Predictor](https://github.com/kemurphy3/athlete-performance-predictor)
-Machine learning models for predicting athletic performance using biometric and training data.
+Comprehensive sports analytics platform integrating Strava data with machine learning models for performance insights and training optimization.
+
+#### [Wildfire Risk Prediction](https://github.com/kemurphy3/wildfire-risk-prediction)
+Open-source project combining NEON ecological data with satellite imagery for advanced fire risk assessment using ML and remote sensing.
 
 ### Current Learning
 
-- Advanced computer vision for environmental monitoring
-- Causal inference in ecological systems
+- Sports analytics and performance modeling
+- Advanced time series analysis for athlete tracking
+- Causal inference in training effectiveness
 - Real-time optimization algorithms
 - MLOps and production ML systems
 
 ### Let's Connect
 
-- [LinkedIn](https://linkedin.com/in/kemurphy)
+- [LinkedIn](https://www.linkedin.com/in/kate-murphy-356b9648/)
 - Email: kemurphy3@gmail.com
 - Portfolio: [Coming Soon]
 
@@ -60,4 +64,4 @@ Machine learning models for predicting athletic performance using biometric and 
 
 ---
 
-*"Using data science to understand and protect our planet"*
+*"Leveraging data science for environmental insights and athletic performance"*

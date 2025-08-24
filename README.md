@@ -35,13 +35,13 @@ I'm passionate about applying machine learning and data science to environmental
 
 ### Featured Projects
 
-#### [Calorie Predictor](https://github.com/kemurphy3/calorie_predictor)
+#### [Athletic Performance Optimizer](https://github.com/kemurphy3/athletic-performance-optimizer)
 Fully functioning ML system for predicting calorie burn during exercise using biometric data and activity metrics. Features real-time predictions and personalized models.
 
 #### [Athlete Performance Predictor](https://github.com/kemurphy3/athlete-performance-predictor)
 Comprehensive sports analytics platform integrating Strava data with machine learning models for performance insights and training optimization.
 
-#### [Wildfire Risk Prediction](https://github.com/kemurphy3/wildfire-risk-prediction)
+#### [Wildfire Risk Prediction Prototype](https://github.com/kemurphy3/wildfire-risk-prediction-prototype)
 Open-source project combining NEON ecological data with satellite imagery for advanced fire risk assessment using ML and remote sensing.
 
 ### Current Learning
@@ -55,7 +55,7 @@ Open-source project combining NEON ecological data with satellite imagery for ad
 ### Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/kate-murphy-356b9648/)
-- Email: kemurphy3@gmail.com
+- Email: kate@katemurphy.io
 - Portfolio: [Coming Soon]
 
 ### GitHub Stats

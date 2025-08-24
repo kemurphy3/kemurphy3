@@ -35,7 +35,7 @@ I'm passionate about applying machine learning and data science to environmental
 
 ### Featured Projects
 
-#### [Athletic Performance Optimizer](https://github.com/kemurphy3/athletic-performance-optimizer)
+#### [Athlete Calorie Predictor](https://github.com/kemurphy3/athlete-calorie-predictor)
 Fully functioning ML system for predicting calorie burn during exercise using biometric data and activity metrics. Features real-time predictions and personalized models.
 
 #### [Athlete Performance Predictor](https://github.com/kemurphy3/athlete-performance-predictor)

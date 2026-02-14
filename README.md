@@ -14,5 +14,5 @@ My work centers on extracting reliable signal from complex datasets and translat
 * Applied machine learning pipelines
 * Retrieval-augmented generation (RAG) systems
 
-Website: [katemurphy.io](katemurphy.io)  
+Website: [katemurphy.io](https://katemurphy.io)  
 [LinkedIn](https://www.linkedin.com/in/kate-murphy-356b9648/)

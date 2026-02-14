@@ -2,6 +2,7 @@
 
 **Data Scientist | Environmental & Geospatial Analytics**  
 **Founder, Murphy Analytics LLC**  
+
 📍 Boulder, CO 
 
 I have 13 years of experience working with environmental and remote sensing data, including spectral processing, calibration workflows, and geospatial analysis.

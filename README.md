@@ -1,8 +1,19 @@
-## Hi there, I'm Murph!
+## Hi, I'm Murph!
 
-I'm a data scientist with 13 years experience working with environmental and geospatial data. My current focus is on building ML models, RAG systems, and evaluation frameworks through Murphy Analytics LLC. I am also pursuing NASM certification while I build out Cleared Fitness, a coaching platform for post-rehab clients.
+**Data Scientist | Environmental & Geospatial Analytics**
+**Founder, Murphy Analytics LLC**
+
+I have 13 years of experience working with environmental and remote sensing data, including spectral processing, calibration workflows, and geospatial analysis.
+My work centers on extracting reliable signal from complex datasets and translating that analysis into usable insight.
+
+Current technical focus:
+* Model evaluation and validation
+* Geospatial feature engineering
+* Applied machine learning pipelines
+* Retrieval-augmented generation (RAG) systems
 
 📍 Boulder, CO 
 
 Website: [katemurphy.io](katemurphy.io)
+
 [LinkedIn](https://www.linkedin.com/in/kate-murphy-356b9648/)
